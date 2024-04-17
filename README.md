@@ -1,10 +1,8 @@
-Here's the corrected version:
-
 # lncFETCHER
 
 **lncFETCHER** is a bioinformatics pipeline designed for predicting long non-coding RNAs (lncRNAs) in *Arabidopsis thaliana* using a pseudoalignment guided approach. This pipeline facilitates the identification of lncRNAs from large-scale RNA-seq datasets. It has been developed for our work titled "Pseudoalignment-guided lncRNA identification with extended multi-omics annotations in _Arabidopsis thaliana_."
 
-Please note that it is still under development for users, and users are advised to run each step individually. Since it includes manipulation of several files, most of the steps may require manual intervention, especially if you are using a genome other than Arabidopsis. In this work, we have used files for Ensembl Arabidopsis thaliana - Genome assembly: TAIR10 (https://plants.ensembl.org/Arabidopsis_thaliana/Info/Index).
+Please note that it is still under development for users, and users are advised to run each step individually. Since it includes manipulation of several files, most of the steps may require manual intervention, especially if you are using a genome other than Arabidopsis. In this work, we have used files of _Arabidopsis thaliana_ - Genome assembly: TAIR10 (https://plants.ensembl.org/Arabidopsis_thaliana/Info/Index).
 
 ## Installation
 
