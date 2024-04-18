@@ -3,6 +3,13 @@
 # Define the output directory
 SEQ_DIR="output"
 
+####################################################################
+###Data download####################################################
+####################################################################
+
+# Read each line from atha_accessions.txt and download FASTQ files
+while read -r filename; do fastq-dl --accession "$filename" --provider SRA; done < atha_accessions.txt
+
 
 ####################################################################
 ###Quality control with Trim Galore#################################
