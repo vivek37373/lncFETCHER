@@ -9,7 +9,7 @@ Please note that it is still under development for users, and users are advised 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YibiChen/LncRNAPredictor.git
+git clone https://github.com/vivek37373/lncFETCHER.git
 ```
 
 2. Download and install dependencies:
